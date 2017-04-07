@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/looks-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/crimson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hsqldb-1.8.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cayenne.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/forms-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ashwood-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
